@@ -49,7 +49,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #21915E;
+  background-color: #18bc9c;
 }
 
 hr.star-dark {
@@ -157,11 +157,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #21915E;
+    background: #18bc9c;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #21915E;
+    background: #18bc9c;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -327,6 +327,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
+  display: none;
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #2C3E50;
@@ -350,7 +351,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #21915E !important;
+  background-color: #18bc9c !important;
 }
 
 .bg-secondary {
@@ -366,8 +367,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #21915E;
-  border-color: #21915E;
+  background-color: #18bc9c;
+  border-color: #18bc9c;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
