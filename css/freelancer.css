@@ -212,13 +212,16 @@ header.masthead h2 {
   margin-bottom: 15px;
 }
 
+/* 
 .portfolio .portfolio-item .portfolio-item-caption {
   -webkit-transition: all ease 0.25s;
-  transition: all ease 0.5s;
+  transition: all ease 0.25s;
 }
+*/
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
-  background-color: rgba(24, 188, 156, 0.75);
+  /* background-color: rgba(24, 188, 156, 1); */
+  border: solid rgba(24, 188, 156, 0.75) 0.75rem;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
@@ -227,7 +230,7 @@ header.masthead h2 {
 
 .fa-search-plus {
   padding: 1rem;
-  background-color: rgba(128, 128, 128, 0.5);
+  background-color: rgba(24, 188, 156, 0.75);
   border-radius: 25%;
 }
 
